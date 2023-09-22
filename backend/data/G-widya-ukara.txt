@@ -1,0 +1,242 @@
+Widya ukara (sintaksis) yaitu salah satu bagian ilmu bahasa yang terjadi dari kumpulan kata yang memiliki maksud. Menurut Sasangka (2008:166) ciri-ciri kalimat yaitu 1) bisa diketahui maksudnya, 2) setidak-tidaknya tersusun dari jejer (subjek) dan wasesa (predikat), 3) dalam huruf Latin dimulai dengan huruf kapital dan diakhiri dengan tanda baca berupa, titik, koma, seru dan tanya, dan 4) memiliki notasi dalam membaca. Bab berikut, akan diuraikan struktur kalimat, pola kalimat dan jenis kalimat.
+
+1. Struktur kalimat
+Struktur kalimat (ukara) dalam bahasa Jawa ada jejer (subjek) dilambangakan huruf ‘J’, wasesa (predikat) dilambangakan huruf ‘W’, lesan (objek) dilambangakan huruf ‘O’, geganep (pelengkap) dilambangakan huruf ‘Gg’ dan katrangan (keterangan) dilambangaka huruf ‘K’. Lima struktur kalimat tersebut, dijelaskan sebagai berikut.
+
+a. Jejer
+Jejer (subjek) yaitu struktur kalimat yang dimaksud, dibicarakan, atau dicritakan keadaannya atau tingkah lakunya, dalam kalimat. Jejer memiliki fungsi penting dalam kalimat. Berikut uraian dari ciri-ciri jejer dalam kalimat.
+
+1) Bentuk Jejer
+Bentuk Jejer tidak hanya dominasi dari tembung aran (kata benda), tetapi dari berbagai jenis kata yang lain. Perhatikan contoh kalimat berikut.
+Bapak tindak Surabaya (jejer dari kata benda)
+Aku tuku roti (jejer dari kata ganti)
+Main nggarahi mlarat. (jejer dari kata kerja)
+Sabar nrima kanyatan. (jejer dari kata sifat)
+Berdasarkan keempat contoh tersebut, diketahui bahwa jejer tidak hanya dominasi dari kata benda. Terdapat kata ganti, kerja, dan sifat yang mempunyai fungsi sebagai jejer.
+
+2) Posisi Jejer dalam Kalimat
+Jejer biasanya terletah di sebelah kiri wasesa (predikat), sebagai yang diceritakan/ yang dimaksud dalam kalimat. Contoh dalam kalimat, ‘Bapak mundhut sekul goreng.’ Dalam kalimat tersebut, kata ‘bapak’ merupakan yang diceritakan dan berada di sebelah kiri wasesa.
+
+b. Wasesa
+Wasesa (predikat) yaitu struktur kalimat yang dimenjelaskan mengenai pekerjaan, tingkah laku, atau keadaan jejer (subjek). Menurut Sasangka (2008:173) wasesa sebagai pusat kalimat, karena kalimat tanpa wasesa tidak disebut kalimat, tetapi frasa. Ciri-ciri wasesa diuraikan sebagai berikut.
+
+1) Bentuk Wasesa
+Berdasarkan artinya wasesa memiliki fungsi menjelaskan pekerjaan, tingkah laku, atau keadaan jejer. Oleh karenanya, wasesa bisa terbentuk dari kata kerja, sifat, benda, atau bilangan. Berikut contoh kalimat, untuk mempemudah memahami bentuk wasesa.
+*Aku turu. (wasesa dari kata keja)
+*Masku pinter. (wasesa dari kata sifat)
+*Bapakku guru. (wasesa dari kata benda)
+*Dhuwitku sayuta. (wasesa dari kata bilangan)
+Empat contoh tersebut, menjelaskan bahwa wasesa memiliki fungsi sebagai penjelas jejer dalam kalimat. Dalam menjelaskan jejer bisa dengan tingkah laku, sifat, bendanya atau bilangannya.
+
+2) Posisi Wasesa dalam Kalimat
+Posisi wasesa berada di sebelah kanan jejer, atau sebelah kiri lesan, geganep dan katrangan. Contoh posisi wasesa dalam kalimat yaitu ‘Aku mangan sega.’ Kata ‘mangan’ ada di sebelah kanan jejer yaitu kata ‘aku’ dan sebelah kiri lesan yaitu kata ‘sega’.
+
+c. Lesan
+Lesan (objek) yaitu struktur kalimat yang dituju dan dikenai dalam kalimat. Ciri-ciri lesan diuraikan sebagai berikut.
+
+1) Bentuk Lesan
+Bentuk lesan, tidak hanya dari kata benda, tetapi bisa dari kata ganti. Contoh kalimat dari lesan berbentuk kata benda, ‘Dedi mijeti bapak.’ Contoh kalimat dari lesan berbentuk kata ganti ‘Dedi nyunggi aku.’.
+
+2) Posisi Lesan dalam Kalimat
+Posisi lesan berada di sebelah kanan wasesa. Hal tersebut, disebut ukara tanduk (kalimat aktif). Contohnya dalam kalimat ‘Rudi mangan pentol.’ Kata ‘pentol’ memiliki fungsi sebagai lesan yang berada di sebelah kanan wasesa yaitu kata ‘mangan’.
+
+3) Pembentuk Lesan
+Struktur kalimat lesan, bisa ada, dan bisa tidak dalam kalimat. Keberadaan lesan bergantung bentuk kata dalam wasesanya. Kalau wasesane berbentuk tembung kriya tanduk mawa lesan (kata kerja aktif transitif) harus ada lesan-nya. Perhatikan contoh berikut.
+Adhik mangan sega. (wasesa berimbuhan m-)
+Siti nulis surat. (wasesa berimbuhan n-)
+Simbah nyunggi wakul. (wasesa berimbuhan ny-)
+Karja ngarang geguritan. (wasesa berimbuhan ng-)
+Berdasarkan keempat kalimat tersebut, wasesanya memiliki imbuhan m-, n-, ny-, dan ng-. Jika lesan dalam keempat kalimat tersebut, dihilangkan maka maksudnya tidak dapat diketahui.
+
+d. Geganep
+Geganep (pelengkap) yaitu struktur kalimat yang memiliki fungsi sebagai pelengkap wasesa. Ciri-ciri geganep seperti uraian berikut.
+
+1) Bentuk Geganep
+Bentuk geganep bisa berupa kata benda atau sifat. Contoh geganep berupa kata benda seperti ‘Adi kelangan kanca’. Kata ‘kanca’ termasuk kata benda yang memiliki fungsi sebagai geganep. Contoh geganep berupa kata keadaan seperti ‘Aku mlaku adoh’.
+
+2) Posisi Geganep dalam Kalimat
+Geganep memiliki posisi hanya disebelah kanan wasesa atau jika ada di sebelah kanan lesan. Contoh terletak sebelah kanan wasesa seperti ‘Adhik pindah sekolah.’ Kata ‘sekolah’ tersebut, menjelaskan/ melengkapi wasesa. Geganep berada di sebelah kanan lesan seperti contoh ‘Pakdhe maringi adhik dolanan.’ Kata ‘pakdhe’ sebagai jejer, kata ‘maringi’ sebagai wasesa, kata ‘adhik’ sebagai lesan, sedangkan ‘dolanan’ sebagai geganep. Kata ‘dolanan’ memiliki fungsi sebagai penjelas/ pelengkap wasesa yaitu ‘maringi apa?’ bukan menjelaskan kata ‘adhik’.
+
+3) Pembentuk Struktur Geganep
+Geganep bisa ada, bisa tidak sebagaimana lesan dalam kalimat. Bedanya, tanpa geganep bisa diketahui maksud dalam kalimat, sedangkan tanpa lesan tidak bisa diketahui maksudnya. Wasesa memuat kata kriya tanduk tanpa lesan, kriya tanggap, dan kahanan bisa memunculkan geganep. Tuladhane kaya andharan ing ngisor:
+*Adhik pindah sekolah. (wasesa tembung kriya tanduk tanpa lesan)
+*Resti kegrujug banyu. (wasesa tembung kriya tanduk)
+*Paklikku gerah waja. (wasesa tembung kahanan)
+Geganep sering tertukar dengan lesan. Geganep memiliki fungsi sebagai penjelas wasesa supaya lebih jelas dalam kalimat. Lesan memiliki fungsi sebagai yang dituju dalam kalimat. Lesan hanya ada jika wasesa berbentuk tembung kriya tanduk mawa lesan.
+
+Perhatikan tabel berikut, untuk mengetahui perbedaan lesan dan geganep.
+
+Lesan:
+Adhik mangani "roti"
+Siti ngenteni "dokar"
+Simbah nyunggi "wakul"
+Rudi ngarang "guritan"
+
+Geganep:
+Adhik kecepit "lawang"
+Siti turu "angler"
+Simbah tandur "pari"
+Rudi pindhah "omah"
+
+Berdasarkan contoh kalimat lesan dan geganep tersebut, terdapat tiga pembeda (ciri) yang digunakan sebagai acuan. Ketiga pembeda tersebut, yaitu bentuk wasesa, penghilang unsurnya, dan pengubahan bentuk kalimat.
+Pertama, bentuk wasesa. Dalam contoh kalimat yang memuat lesan, wasesa mempunyai imbuhan berawalan m-, n-, ny- dan ng- dan ater-ater anuswara (m-, n-, ng-, dan ny-) ditambah panambang -i atau panambang –ake. Dengan kata lain, wasesa yang memuat lesan hanya berbentuk tembung kriya tanduk mawa lesan. Hal berbeda, terdapat dalam bentuk wasesa yang memuat geganep. Bentuk wasesa-nya berimbuhan selain anuswara (m-, n-, ng-, dan ny-) dan tanpa imbuhan (tembung lingga).
+Kedua, penghilangan unsurnya. Kata roti, dokar, wakul, dan guritan memiliki fungsi sebagai lesan. Apabila keempat kata tersebut, dihilangkan maka maksud dari kalimat menjadi tidak jelas. Berbeda dengan kata lawang, angler, pari, dan omah. Apabila dihilangkan tidak akan mengurangi maksud atau masih dapat diketahui maksudnya.
+Ketiga, kalimat yang memuat lesan dan geganep berdasarkan tindakannya berbentuk ukara tanduk. Ukara tanduk yang memuat lesan dapat diubah menjadi ukara tanggap yakni dengan membaliknya.
+
+Lesan:
+Ukara tanduk | Ukara tanggap
+____________________________
+Adhik mangani roti | Roti dipangani adhik
+Siti ngenteni dokar | Dokar dienteni Siti
+Simbah nyunggi wakul | Wakul disunggi Simbah
+Rudi ngarang guritan | Guritan dikarang Rudi
+
+Pengubahan tersebut, tidak bisa dilakukan pada ukara tanduk yang memuat geganep. Perhatikan tabel berikut.
+
+Geganep
+Ukara tanduk | Ukara tanggap
+____________________________
+Adhik kecepit lawang | Lawang dicepit adhik?
+Siti turu angler | Angler turu siti?
+Simbah tandur pari | Pari ditandur Simbah?
+Rudi pindhah omah | Omah dipindhah Rudi?
+
+e. Katrangan
+Keterangan yaitu struktur kalimat yang memiliki fungsi menjelaskan kalimat supaya lebih jelas maksudnya. Ciri-ciri katrangan, diuraikan sebagai berikut.
+
+1) Proses Pembentuk Katrangan
+Keberadaan keterangan dalam kalimat bergantung dari kejelasan maksud. Jika tidak ada keterangan, kalimat tetap bisa diketahui maksudnya. Dengan demikian, keterangan bersifat manasuka.
+2) Posisi Katrangan
+Keterangan selain, bersifat manasuka, dalam penentuan posisi dalam kalimat pun juga demikian. Katerangan bisa berada di depan (sebelah kiri jejer), ditengah (sebelah kanan jejer), atau di akhir atau sebelah kanan lesan atau wasesa atau geganep. Perhatikan contoh berikut.
+*Esuk mruput, adhik tuku roti.
+*Adhik esuk mruput tuku roti.
+*Adhik tuku roti esuk mruput.
+
+3) Jenis Katrangan
+Jenis katrangan dalam kalimat terdapat sembilan jenis. Berikut tabel ulasannya.
+
+Jenis Katrangan | Kata yang Menjadi Ciri Penanda
+________________________________________________
+panggonan | Ing ana, ana ing, menyang, saka, sarta katrangan papan liyane.
+wektu | Mangsa, dhek, dhek wingi, dhek biyen, saiki, kepungkur, sadurunge, nalika, ngepasi, tembe mburi, lan sakpanunggale.
+alat/ piranti | Nanggo, karo, kanthi, mawa, ambek
+cacah | Sakabehe, sathithik, akeh, lan werna ukuran/ takeran.
+akibat | Mula, mulane, mula saka iku, wusanane
+upaya/ syarat | Waton, angger, sauger, pokoke, saumpama, menawa, yen, yen ta.
+Sebab | Sebab, jalaran, amarga, karana 
+Asal | Saka,, digawe saka, asale saka
+wewatesan | Nganti, ngantek
+Tujuan | Supaya, kareben, murih, amrih, ing pangajab, ing pangangkah, menyang
+
+2. Pola Ukara
+Pola ukara yaitu tata urutan struktur kalimat. Pola kalimat, dibagi menjadi tujuh seperti contoh berikut.
+
+Pola | Jejer | Wasesa | Lesan | Geganep | Katrangan
+________________________________________
+J–W | Rudi | ngantuk | - | - | -
+J–W-L | Rudi | mangan | bakso | - | -
+J–W–P | Rudi | mlayu | - | banter | -
+J–W–K | Rudi | lunga | - | - | ing jakarta
+J–W–L–P | Rudi | numbasake | adhik | sepatu
+J–W–L-K | Rudi | tuku | klambi | - | ing pasar
+J–W–L–P-K | Rudi | menehi | aku | roti | wingi | sore
+
+3. Jenis Ukara
+Dalam pembahasan ini, akan diuraikan dua jenis ukara. Jenis ukara menurut tindakan dan isinya. Menurut tindakannya, ukara dibagi menjadi dua, yakni ukara tanduk dan tanggap. Menurut isinya, ukara dibagi menjadi tiga yaitu carita (cerita), pakon (perintah), dan pitakon (tanya). Berikut, uraian kedua jenis ukara.
+
+a. Tindakannya
+Jenis ukara menurut tindakannya dibagi menjadi ukara tanduk dan tanggap. Berikut uraiannya.
+1) Ukara Tanduk
+Ukara tanduk (kalimat aktif) yaitu kalimat dimana wasesa-nya berbentuk tembung kriya tanduk (kata kerja aktif) (Sasangka, 2008:189). Ciri-ciri ukara tanduk yaitu wasesa-nya menggunakan imbuhan ater-ater anuswara (m-, n-, ng- dan ny-) dengan panambang –i atau –ake. Perhatikan contoh ukara tanduk sebagai berikut.
+*Jumini [jejer] mbungkusi [wasesa] sarung [lesan].
+*Hera [jejer] mleroki [wasesa] Paija [lesan].
+*Rendra [jejer] nukokake [wasesa] adhine [lesan] jajan [geganep].
+
+Ukara tanduk dibagi menjadi tiga jenis yaitu ukara tanduk tanpa lesan, mawa lesan, dan mawa lesan dan geganep. Uraian dan contoh ketiga jenis ukara tanduk seperti berikut.
+
+a) Ukara Tanduk Tanpa Lesan
+Ukara tanduk mawa lesan memiliki ciri yaitu wasesa dari tembung kriya lingga, kriya wantah (mendapat imbuhan ater-ater anuswara), gabungan ater-ater anuswara dan panambang –i, atau rangkep. Contoh ukara tanduk tanpa lesan seperti berikut.
+*Rudi dolan. (wasesa terbentuk dari tembung kriya lingga
+*Pramana ngaji. (wasesa terbentuk dari tembung kriya ater-ater anuswara)
+*Pakpuh nuwani. (wasesa terbentuk dari terbentuk dari tembung kriya gabungan anuswara lan panambang -i)
+*Wong iku mlaku-mlaku. (wasesa terbentuk dari tembung rangkep)
+
+b) Ukara Tanduk Mawa Lesan
+Ukara tanduk mawa lesan memiliki ciri-ciri yaitu wasesa-nya tembung kriya berimbuhan ater-ater anuswara, gabungan ater-ater anuswara dan panambang -i, atau gabungan ater-ater anuswara dan panambang –ake. Berikut contoh Ukara tanduk mawa lesan.
+*Siti mikul kayu. (wasesa terbentuk dari tembung kriya ater-ater anuswara)
+*Bu Khus nyekeli iwak. (wasesa terbentuk dari tembung kriya gabungan anuswara lan panambang -i)
+*Adhiku ngutahake banyu. (wasesa terbentuk dari tembung kriya gabungan anuswara lan panambang -ake)
+
+c) Ukara Tanduk Mawa Lesan dan Geganep
+Ukara tanduk mawa lesan dan geganep memiliki ciri-ciri yaitu wasesa-nya terbentuk dari imbuhan gabungan ater-ater anuswara dan panambang –i utawa panambang –ake. Contoh Ukara tanduk mawa lesan dan geganep seperti berikut.
+
+*Bapak maringi adhik sangu. (wasesa terbentuk dari tembung kriya gabungan anuswara dan panambang -i)
+*Ibu nggorengake masku iwak. (wasesa terbentuk dari tembung kriya gabungan anuswara dan panambang -ake)
+
+2) Ukara Tanggap
+Ukara tanggap (kalimat pasif) yakni kalimat dimana wasesa berbentuk tembung kriya tanggap (kata kerja pasif). Wasesa kriya tanggap bisa terbentuk dari imbuhan ater-ater di-, ka-, ke-, seselan –in-, dan klitik dak- dan ko-. Perhatikan contoh berikut.
+*Regedane disapu adhik.
+*Bale katendhang kiper.
+*Jeni kecepit lawang.
+*kabeh wis tinulis.
+*bukune dakgawa.
+*pulpene kokenggo nganti entek.
+
+PENTING
+Susunan ukara tanduk dan tanggap memiliki perbedaan. Perbedaannya, Jejer dalam ukara tanduk berubah menjadi geganep dalam ukara tanggap. Lesan dalam ukara tanduk berubah menjadi jejer dalam ukara tanggap. Untuk ukara tanggap tidak memiliki lesan. Supaya lebih jelas, perhatikan contoh berikut.
+Adhik [jejer] mangan [wasesa] tahu [lesan]. (Ukara tanduk)
+Tahu [jejer] dipangan [wasesa] adhik [geganep]. (Ukara tanggap)
+Abdul [jejer] makani [wassesa] pitik [lesan] ing kandhang [katrangan]. (Ukara tanduk)
+Pitik [jejer] dipakani [wasesa] Abdul [geganep] ing kandhang [katrangan]. (Ukara tanggap)
+Aku [jejer] nukokake [wasesa] adhik [lesan] pulsa [geganep]. (Ukara tanduk)
+Adhik [jejer] daktukokne [wasesa] pulsa [geganep]. (Ukara tanggap)
+
+b. Berdasarkan Isi
+Berdasarkan isinya, ukara dibagi menjadi tiga yaitu ukara carita, pakon, dan pitakon. Supaya lebih jelasnya, berikut uraianya.
+
+1) Ukara Carita
+Ukara carita (kalimat berita) yakni kalimat yang menjelaskan gagasan, pikiran atau pengetahuan kepada orang lain. Berikut contoh ukara carita.
+- Sesuk bapak tindak Sala.
+- Rega bensin wiwit tanggal 1 Mei 2015 mundhak.
+
+2) Ukara Pakon
+Ukara pakon (kalimat perintah) yakni kalimat yang berisi gagasan dan pikiran supaya orang lain bersedia mengerjakan gagasan dan pikiran tersebut. Ukara pakon dibagi menjadi lima jenis, yaitu ukara pakon lumrah, pamenging, pangajak, panantang, dan panyuwun. Perhatikan contoh dari kelima jenis ukara pakon tersebut.
+Ukara Pakon Lumrah:
+- Tugase ndang digarap!
+- Ndang disaponi latare!
+Ukara Pakon Pamenging: 
+- Kowe aja njupuk jajan kuwi!
+- Aja dolan rono!
+Ukara Pakon Pangajak:
+- Ayo mangan bareng-bareng!
+- Mangga dipundhahar riyin!
+Ukara Pakon Panantang:
+- Nganti kokrusuhi, daksikat awakmu ngko!
+- Rena yen kowe isih ora percaya!
+Ukara Pakon Panyuwun: 
+- Mbokya latare disaponi!
+- Pisan-pisan aku digarapne!
+
+3) Ukara Pitakon
+Ukara pitakon (kalimat tanya) yakni kalimat yang menjelaskan rasa penasaran atau keingintahuan mengenai gagasan, ilmu, atau cerita dari orang lain. Ukara pitakon memuat kata apa, kepriye, kapan, ngendi, sapa, kena apa (5W+1H). Berikut contoh ukara pitakon.
+- Apa kowe ora mlebu sekolah?
+- Kepriye sekolahmu?
+- Kapan awakmu mlebu sekolah?
+- Ngendi panggone sekolahmu?
+- Sapa sing ngeterne kowe sekolah?
+- Kena apa kowe ora mlebu?
+
+RINGKASAN
+Dalam bab widya ukara, diuraikan mengenai struktur, pola dan jenis kalimat bahasa Jawa. Struktur ukara terdapat jejer (subjek), wasesa (predikat), lesan (objek), geganep (pelengkap) dan katrangan (keterangan). Masing-masing struktrur memiliki ciri dan fungsi yang berbeda dalam kalimat. Pola ukara yang terdapat dalam bahasa Jawa ada tujuh, yaitu JW, JWL, JWG, JWK, JWLG, JWLK, dan JWLGK. Jenis ukara dibagi menjadi dua yakni berdasarkan tindakan dan isi. Berdasarkan tindakan terdapat ukara tanduk dan ukara tanggap. Berdasarkan isi terdapat ukara crita, pakon dan pitakon.
+
+Latihan!
+1. Sebutkan ketujuh pola ukara ukara yang terdapat dalam bahasa Jawa! Jawab: Tujuh pola ukara yaitu : JW, JWL, JWG, JWK, JWLG, JWLGK.
+2. Buatlah dua contoh kalimat berpola JW! Jawab: (1) Adhik nangis. (2) Aku turu.
+3. Buatlah dua contoh kalimat berpola JWLG! Jawab: (1) Pakdhe maringi adhik roti. (2) Budhe nggawakake Antok laptop.
+4. Sebutkan tiga jenis ukara berdasarkan isinya dan beri contoh masing-masing satu ukara! Jawab: (1) Ukara Crita : “Aku sesuk tuku klambi anyar.” (2) Ukara Pakon: “Renea takwehei jajan!” (3) Ukara Pitakon: “Sesuk mlebu jam pira?”
+5. Jenis kata apa saja yang dapat berfungsi sebagai jejer! Beri contoh dalam ukara! Jawab: Jejer dapat terbentuk dari kata benda, ganti, kerja, dan sifat.
+6. Apa fungsi dari wasesa? Jawab: Wasesa berfungsi sebagai penjelas dari pekerjaan, tingkah laku atau keadaan jejer.
+7. Jenis kata apa saja yang dapat dijadikan sebagai wasesa! Beri contoh dalam ukara! Jawab: Jenis kata yang dapat dijadikan sebagai wasesa yaitu kata kerja, sifat, benda dan bilangan.
+8. Jenis wasesa apa yang membutuhkan lesan? Jawab: Wasesa yang memb utuhkan lesan adalah wasesa yang berbentuk tembung kriya tanduk mawa lesan.
+9. Sebutkan tiga ciri pembeda untuk membedakan lesan dan geganep? Jawab: Bentuk wasesa, penghilangan unsurnya, dan pengubahan bentuk kalimat.
+10. Ada berapa jenis katrangan dalam ukara bahasa Jawa? Jawab: Terdapat sembilan jenis katrangan dalam ukara bahasa Jawa.
