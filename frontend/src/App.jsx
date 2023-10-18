@@ -34,7 +34,7 @@ function App() {
   async function processMessageToJawabot(chatMessages){
     await fetch(`${API_URL}/ask`,{
       method: 'POST',
-      mode: 'cors',
+      // mode: 'cors',
       headers: {
         "Content-Type" : "application/json"
       },
