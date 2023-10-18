@@ -12,6 +12,8 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     python3-dev \
     telnet \ 
+    iproute2 \
+    iputils-ping \
     && rm -rf /var/lib/apt/lists/*
 
 RUN pip install -U -r requirements.txt

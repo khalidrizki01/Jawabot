@@ -10,8 +10,9 @@ load_dotenv()
 app = FastAPI()
 
 origins = [
-    "http://localhost",
-    "http://localhost:5173"]
+    "http://frontend:5173",
+    "http://jawabot-dev.web.id"
+    ]
 
 app.add_middleware(
     CORSMiddleware,
@@ -37,5 +38,5 @@ async def answer(request: Request):
     except Exception as e:
         return {"error", str(e)}
     
-if __name__ == "__main__" :
-    uvicorn.run(app, host = 'localhost', port = 8000)
+# if __name__ == "__main__" :
+#     uvicorn.run(app, host = 'localhost', port = 8000)

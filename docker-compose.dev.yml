@@ -11,6 +11,9 @@ services:
     env_file:
     - ./backend/dev.env
     command: uvicorn main:app --reload --port 8000 --host 0.0.0.0 --proxy-headers
+    networks:
+      - nginx-proxy
+      - jawabot-dev-network
   frontend:
     build:
       context: ./frontend
@@ -20,6 +23,9 @@ services:
     depends_on:
       - backend
     command: npm run dev -- --port 5173 --host 0.0.0.0
+    networks:
+    - nginx-proxy
+    - jawabot-dev-network
 
   redis:
     restart: always
