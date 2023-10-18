@@ -3,7 +3,8 @@ import './App.css'
 import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css'
 import {MainContainer, ChatContainer, MessageList, Message,MessageInput, TypingIndicator  } from '@chatscope/chat-ui-kit-react'
 
-const API_URL="http://localhost:8000"
+// const API_URL="http://localhost:8000"
+const API_URL="http://api.jawabot-dev.web.id"
 
 function App() {
   const [typing, setTyping] = useState(false)
@@ -33,7 +34,7 @@ function App() {
   async function processMessageToJawabot(chatMessages){
     await fetch(`${API_URL}/ask`,{
       method: 'POST',
-      mode: 'cors',
+      // mode: 'cors',
       headers: {
         "Content-Type" : "application/json"
       },

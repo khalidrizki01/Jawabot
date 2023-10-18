@@ -17,9 +17,9 @@ from langchain.prompts import (
     ChatPromptTemplate,
 )
 
-PREFIX = ("Jawabot is a specialized chatbot designed to facilitate Javanese language learning for non-Javanese speakers. "
-"It engages in conversations and provides responses in the Javanese language  to help people grow accustomed to speaking Javanese. " 
-"Even if the user uses Bahasa Indonesia or English, Jawabot replies exclusively in Javanese")
+PREFIX = ("Jawabot iku kuwi chatbot kang didesain kanggo ngefasilitasi sinau basa jawa kanggo wong kang ora nganggo basa jawa. "
+"Program iki ngelakokake omongan lan ngewenehi jawaban nganggo basa jawa kanggo ngewangi wong kanggo kebiasa nganngo basa jawa. " 
+"senajan wong kang nggunaake iki nganggo Bahasa Indonesia utawi Inggris, Jawabot kudu ngebales nganggo basa jawa")
 
 def split_texts(text_name):
   loader = TextLoader(text_name, encoding="utf-8")
@@ -90,7 +90,7 @@ few_shot_prompt = FewShotChatMessagePromptTemplate(
 
 final_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system", "Kowe agen pengambil dokumen babagan widya swara lan widya sigeg (fonetik Jawa). "
+        ("system", "Sampeyan agen pengambil dokumen babagan widya swara lan widya sigeg (fonetik Jawa). "
                      "Gunakake potongan konteks ing ngisor iki kanggo mangsuli pitakon ing pungkasan. "
                      "Yen sampeyan ora ngerti jawaban, mung ngomong yen sampeyan ora ngerti, aja nyoba nggawe jawaban. "
                      "{context}"),
@@ -120,90 +120,77 @@ tools = [
     Tool(
         name='Widya-Swara',
         func=swara_sigeg.run,
-        description=("A document list concerning 'Widya Swara' and 'Widya Sigeg', which is Javanese phonetics. "
-                    #  "It also contains other subjects related to it such as "
-                    # "dialects and differences in meaning between words that uses similar albeit different vocal letters. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna apa wae jinis vokal ing basa jawa karo contone!', "
-                    # "'Terangna carane ngucapake saben jinis vokal ing basa jawa', "
+        description=("Dokumen kang ngebahas babagan  'Widya Swara' lan 'Widya Sigeg', yaiku ilmu kang bahas swara-swara ing basa jawa"
+                    "Salah sawijining contoh menika 'Sebutna apa wae jinis vokal ing basa jawa karo contone', "
                     "'Terangna bedane dialek Yogya/Sala karo dialek Surabayan', "
-                    "'Terangna bedane sêsêk karo sésék', and 'Tulisna cara nulis beduk sing bener ing basa jawa'.")
+                    "lan 'Terangna bedane sêsêk karo sésék'.")
     ),
     Tool(
         name='Unggah-Ungguh',
         func=unggah.run,
-        description=("A document list concerning 'unggah-ungguh' which is Javanese way of speaking "
-                    "which includes social norms, speaking ethics, and ways of speaking according to the situation and relationship between speakers. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna jumlah unggah-ungguh miturut kosa kata', "
-                    "'Sebutna kapan wae kudu nganggo basa ngoko alus', and "
+        description=("Dokumen kang ngebahas babagan 'unggah-ungguh' yaiku babagan etika ing interaksi kaliyan wong "
+                    "salah sawijining kang dibahas menika norma sosial, etika basa, lan cara ngomong ing situasi lan hubungan ning pewicara. "
+                    "Salah sawijining contoh menika 'Sebutna jumlah unggah-ungguh miturut kosa kata', "
+                    "'Sebutna kapan wae kudu nganggo basa ngoko alus', lan "
                     "'Sebutna apa wae ater-ater lan panambang ing basa krama.' "
+
                 )
     ),
     Tool(
         name='Geguritan',
         func=geguritan.run,
-        description=("A document list concerning Javanese modern poetry (geguritan). "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna unsur-unsur geguritan', "
-                    "'Sebutna apa wae jinis purwakanthi', and "
+        description=("Dokumen kang bahas puisi ing basa jawa (geguritan). "
+                    "Salah sawijining contoh menika 'Sebutna unsur-unsur geguritan', "
+                    "'Sebutna apa wae jinis purwakanthi', lan "
                     "'Gawena geguritan babagan ibu' "
+
                 )
     ),
     Tool(
         name='Widya-Tembung',
         func=widyatembung.run,
-        description=("A document list concerning 'Widya Tembung' which is Javanese morphology. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Terangna apa iku ater-ater, seselan, panambang, lan bebarengan?', "
-                    "'Sebutna jinis tembung ing basa jawa', and "
+        description=("Dokumen kang bahas babagan 'Widya Tembung' yaiku kang bahas kalimat lan pangrimbangin kalimat. "
+                    "Salah sawijining contoh menika 'Terangna apa iku ater-ater, seselan, panambang, lan bebarengan?', "
+                    "'Sebutna jinis tembung ing basa jawa', lan "
                     "'Miturut wujude, tembung kaperang dadi apa wae?' "
+
                 )
     ),
     Tool(
         name='Widya-Ukara',
         func=widyaukara.run,
-        description=("A document list concerning 'Widya Ukara' which is Javanese syntax. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna jinis-jinis struktur ukara ing basa jawa', "
-                    "'Tunjukna pola ukarane ukara ing ngisor iki', and "
+        description=("Dokumen kang bahas babagan 'Widya Ukara' yaiku bahas babagan bentukane lan tata kalimat basa jawa. "
+                    "Salah sawijining contoh menika 'Sebutna jinis-jinis struktur ukara ing basa jawa', "
+                    "'Tunjukna pola ukarane ukara ing ngisor iki', lan "
                     "'Terangna bedane geganep karo lesan' "
+
                 )
     ),
     Tool(
         name='Lagon-Dolanan',
         func=lagon.run,
-        description=("A document list concerning 'Lagon Dolanan' which is Javanese children's play song. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna aturan lagon dolanan', and "
+        description=("Dokumen kang bahas babagan 'Lagon Dolanan' yaiku bahas lagu-lagu bocah ing basa jawa. "
+                    "Salah sawijining contoh yaiku 'Sebutna aturan lagon dolanan', and "
                     "'Gawena lagon dolanan babagan gajah' "
+
                 )
     ),
     Tool(
         name='Tembang-Macapat',
         func=macapat.run,
-        description=("A document list concerning 'Tembang Macapat', a form of traditional Javanese poetry that follows specific metrical and melodic patterns. "
-                    # "If you don't know the answer, you may use other tools to find the correct answer. "
-                    # "Input should be as clear as possible with detailed context. "
-                    "Example input 'Sebutna jinis-jinis tembang macapat', "
-                    "'Sebutna jumlah guru wilangan lan guru lagu tembang maskumambang', and"
+        description=("Dokumen kang bahas babagan 'Tembang Macapat', bab iki bahas babagan puisi basa jawa kang nyakup pola-pola lan bentukan-bentukaninpun. "
+                    "Salah sawijining contoh yaiku 'Sebutna jinis-jinis tembang macapat', "
+                    "'Sebutna jumlah guru wilangan lan guru lagu tembang maskumambang', lan "
                     "'Kepiye watake tembang pocung'"
+
                 )
     ),
     GoogleSerperRun(
         api_wrapper=GoogleSerperAPIWrapper(),
         description= (
-            "A low-cost Google Search API. Useful when you need to get accurate information to answer a question. "
-            "When the subject is about Javanese linguistics, phonetics, literature, language, societal values, and cultures, "
-            "you may only use this tool if the other tools doesn't have the answer. "
-            # "You must always use this when you are unsure of your answer or when you need a search for information. "
-            "Input should be as concise and as clearly as possible and formatted as a single search term."
+            "API penelusuran Google, Alat iki gunane yen njenengan butuh informasi sing akurat gawe golek pertanyaan. "
+            "Yen bab basa lan budaya Jawa, njenengan mung kudu nggunakake alat iki yen liyane ora duwe jawaban sing sesuai. "
+            "Input kudu cendhak lan cetha lan diformat minangka siji penelusuran."
         )
     )
 ]
@@ -224,10 +211,9 @@ class JawabotAgent(object):
             "system_message" : SystemMessage(content=PREFIX),
             "extra_prompt_messages": [
                 MessagesPlaceholder(variable_name="chat_history"),
-                SystemMessage(content="Remember, Jawabot replies exclusively in Javanese "
-                    "even if the user is speaking in other languages. "
-                    "Jawabot may speak in Bahasa Indonesia when and only when the user ask for translation for certain words. "
- #                   "Jawabot should never reply in full Bahasa Indonesia or English."
+                SystemMessage(content="Eling! Jawabot iki hanya iso bales nganggo Boso Jowo, "
+                    "masio sing nganggo ngomong boso liane. "
+                    "Jawabot iki iso ngomong nganggo Boso Indonesia nek sing nganggo iki njaluk terjemahan gawe kata-kata tertentu wae."
                     )
                 ],
         }
